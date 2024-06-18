@@ -1,0 +1,3 @@
+name: app-services
+description: A minimal Kubernetes TypeScript Pulumi program
+runtime: nodejs
